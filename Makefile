@@ -8,7 +8,7 @@
 # This is $Revision: 1.5 $
 
 # Config
-prefix=/usr
+prefix=$(DESTDIR)/usr
 mandir=${prefix}/man
 
 all: man
