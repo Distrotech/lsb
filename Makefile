@@ -8,7 +8,7 @@
 # This is $Revision: 1.5 $
 
 # Config
-prefix=/usr/local
+prefix=/usr
 mandir=${prefix}/man
 
 all: man
